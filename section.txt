@@ -1,0 +1,58 @@
+<section id="about" class="about angle" style="
+	background: rgb(204,204,204);
+	background: linear-gradient(176deg, rgba(204,204,204,1) 45%, rgba(255,255,255,1) 92%);">
+		<div class="container">
+			<div class="row">
+				<div class="landing-tab clearfix">
+					<ul class="nav nav-tabs nav-stacked col-md-3 col-sm-5">
+					  	<li class="active">
+					  		<a class="animated fadeIn" href="#tab_a" data-toggle="tab">
+					  			<span class="tab-icon"><i class="fa fa-question"></i></span>
+					  			<div class="tab-info">
+						  			<h3>Quiénes Somos</h3>
+					  			</div>
+					  		</a>
+					  	</li>
+					  	<li>
+						  	<a class="animated fadeIn" href="#tab_b" data-toggle="tab">
+						  		<span class="tab-icon"><i class="fa fa-line-chart"></i></span>
+					  			<div class="tab-info">
+						  			<h3>Nuestra Misión</h3>
+					  			</div>
+						  	</a>
+						</li>
+					 	<li>
+						  	<a class="animated fadeIn" href="#tab_c" data-toggle="tab">
+						  		<span class="tab-icon"><i class="fa fa-eye"></i></span>
+					  			<div class="tab-info">
+						  			<h3>Nuestra visión</h3>
+					  			</div>
+						  	</a>
+						</li>
+					</ul>
+					<div class="tab-content col-md-9 col-sm-7">
+				        <div class="tab-pane active animated fadeInRight" id="tab_a">
+				        	<br><br>
+				            <h3>Aceros Griegos</h3> 
+				            <p align="justify">Somos una empresa orgullosamente costarricense, dedicada al área de comercialización de diversos tipos de Aceros. Conformados por un grupo de personas calificadas y con experiencia en el ámbito. Donde la responsabilidad y el compromiso son nuestros pilares de trabajo.</p>
+				        </div>
+				        <div class="tab-pane animated fadeInLeft" id="tab_b">
+				        	<br><br>
+				            <h3>Nuestra Misión</h3> 
+							<p>Comercializar Aceros de calidad y accesibles para todo el mercado costarricense supliendo las necesidades de pequeñas, medianas y grandes empresas.</p>
+				        </div>
+				        <div class="tab-pane animated fadeIn" id="tab_c">
+				            <br><br>
+				            <h3>Nuestra Visión</h3> 
+				            <p>Liderar el mercado de comercialización de Aceros a nivel costarricense, ampliando nuestro catálogo de productos permitiendo brindar mayor variedad, para satisfacer las necesidades de todos nuestros clientes.</p>
+				        </div>
+					</div><!-- tab content -->
+	    		</div><!-- Overview tab end -->
+			</div><!--/ Content row end -->
+		</div><!-- Container end -->
+    </section>
+
+
+NOSOTROS
+MEJORAR CATALOGO
+SERVICIOS
